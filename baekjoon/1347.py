@@ -40,4 +40,4 @@ for i, j in start_loc:
     m_list[i][j] = '.'
     
 for r in m_list:
-    print(''.join(r))
+    print(''.join(r))  

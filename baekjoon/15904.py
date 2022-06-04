@@ -1,3 +1,7 @@
+#15904
+#그리디 알고리즘
+#실버5
+
 words = input().replace(' ', '')
 ans = 'UCPC'
 idx = 0
